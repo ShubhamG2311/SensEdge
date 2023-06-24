@@ -43,7 +43,7 @@ dependencies {
 
 # How to run the project?
 
-1. Install Android Studio
+1. Install Android Studio code
 2. Clone/Download the project to your local machine and unzip the folder
 3. Open Android Studio 
 4. Click on File→New→Import Project
