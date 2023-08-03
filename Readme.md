@@ -52,5 +52,5 @@ dependencies {
 
 # Links
 
-- [Teaser Video](https://drive.google.com/file/d/1a9NlZpPxxE6FnAUzUJcOyaEUbfIcUH9n/view?usp=sharing)
+- [Teaser Video](https://youtu.be/e1ZLCpNEzUM)
 - [Presentation](https://docs.google.com/presentation/d/1vwcc-d5AfY3o2KJb5Dom372esNcN-yfT/edit?usp=share_link&ouid=113743890143882298940&rtpof=true&sd=true)
